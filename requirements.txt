@@ -1,3 +1,11 @@
 neo4j
 python-dotenv
 ipykernel
+langchain
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters
